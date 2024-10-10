@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428140284050",
+    "project_id": "avaliacao-99eff",
+    "storage_bucket": "avaliacao-99eff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428140284050:android:82aab6c5790c83fa7c3e4b",
+        "android_client_info": {
+          "package_name": "com.example.avalicao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpNFdWq_DrqSRGaDbhGWlCUaBlNDdva6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
